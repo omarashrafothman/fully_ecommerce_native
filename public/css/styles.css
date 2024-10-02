@@ -1,0 +1,30 @@
+.productBox{
+border-radius: .5rem !important;
+
+}
+
+.caption{
+
+    height: auto;
+
+}
+.thumbnail{
+
+
+    padding-bottom: 1rem;
+}
+.thumbnail .imageContainer{
+
+
+  width: 100%;
+  height: 200px;
+
+}
+.thumbnail .imageContainer img{
+
+
+  width: 100%;
+  height: 100%;
+
+
+}
